@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Rachel Miles",
+  "description": "A project to learn about package.json",
   "dependencies": {
     "express": "^4.14.0"
   },
